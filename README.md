@@ -27,14 +27,21 @@ Investing heavily in AI, data engineering, and applied ML. Recent certifications
 - **SQL Fundamentals** — DataCamp
 - **GitHub Foundations** — DataCamp
 
-[View full learning portfolio →](https://www.datacamp.com/portfolio/eric-4257949e-ccba-4b96-8933-0a8c399f8fb5)
+📊 [DataCamp Portfolio](https://www.datacamp.com/portfolio/eric-4257949e-ccba-4b96-8933-0a8c399f8fb5)
+
+### Writing
+
+I write about building — products, organizations, communities, and lives — on Medium.
+
+✍️ [The Builder's Notebook on Medium](https://medium.com/@eric_kornacki)
 
 ### Background
 
-Before tech, I co-founded [Re:Vision](https://revision.coop), a nonprofit I grew from startup to $3M+ in annual revenue over a decade. I've raised over $15M, delivered a [TEDxMileHigh keynote](https://www.youtube.com/results?search_query=tedxmilehigh+eric+kornacki), and hold a BA in Economics from the University of Denver.
+Before tech, I co-founded [Re:Vision](https://revision.coop), a nonprofit I grew from startup to $3M+ in annual revenue over a decade. I've raised over $15M, delivered a [TEDxMileHigh keynote](https://www.youtube.com/watch?v=31PyAjy6Nl0), and hold a BA in Economics from the University of Denver.
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/EricKornacki)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@eric_kornacki)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:ekornacki@proton.me)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/eric-4257949e-ccba-4b96-8933-0a8c399f8fb5)
