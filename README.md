@@ -37,7 +37,7 @@ I write about building — products, organizations, communities, and lives — o
 
 ### Background
 
-Before tech, I co-founded [Re:Vision](https://revision.coop), a nonprofit I grew from startup to $3M+ in annual revenue over a decade. I've raised over $15M, delivered a [TEDxMileHigh keynote](https://www.youtube.com/watch?v=31PyAjy6Nl0), and hold a BA in Economics from the University of Denver.
+Before tech, I co-founded [Re:Vision](https://revision.coop), a nonprofit I grew from startup to $3M+ in annual revenue, raising over $15M in under a decade. I delivered a [TEDxMileHigh keynote](https://www.youtube.com/watch?v=31PyAjy6Nl0) on the power of building local communities. I hold a BA in Economics from the University of Denver.
 
 ### Connect
 
