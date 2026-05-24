@@ -4,7 +4,7 @@
 
 ---
 
-I'm a cross-functional technology executive who builds products, teams, and revenue engines. Currently leading product and engineering at Switch, a healthcare staffing marketplace platform operating across 5+ states.
+I'm a cross-functional technology executive who builds products, teams, brands, and revenue engines. Currently leading product at Switch, a healthcare staffing marketplace platform operating across 8 states.
 
 ### What I do
 
